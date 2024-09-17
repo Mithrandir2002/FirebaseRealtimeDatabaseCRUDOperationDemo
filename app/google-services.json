@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "17685867673",
+    "project_id": "fir-clouddatabasepractice",
+    "storage_bucket": "fir-clouddatabasepractice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17685867673:android:3c2fe2b9071dc7f3481c08",
+        "android_client_info": {
+          "package_name": "vn.edu.usth.firebaseclouddatabasepractice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ_CumlidhJYiqAVBTzfIBnXCa0PKVPy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
